@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Pokerogue trainer
 // @namespace   Violentmonkey Scripts
-// @match       http://localhost:8000
+// @match       http://localhost:8000/
 // @grant       none
 // @version     1.0
 // @author      https://github.com/exitmouse
